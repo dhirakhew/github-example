@@ -1,0 +1,151 @@
+PostalCode,Province,search,Latitude,Longitude,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+M5A,ON,"M5A, ON",43.6542599,-79.36063589999999,Coffee Shop,Bakery,Park,Pub,Café,Breakfast Spot,Theater,Bank,Beer Store,French Restaurant
+M1B,ON,"M1B, ON",43.8066863,-79.1943534,Print Shop,Fast Food Restaurant,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+M3B,ON,"M3B, ON",43.7459058,-79.352188,Japanese Restaurant,Café,Beer Store,Restaurant,Coffee Shop,Gym,Asian Restaurant,Sporting Goods Shop,Caribbean Restaurant,Chinese Restaurant
+M5B,ON,"M5B, ON",43.6560811,-79.3801714,Clothing Store,Coffee Shop,Italian Restaurant,Bubble Tea Shop,Restaurant,Café,Cosmetics Shop,Tea Room,Middle Eastern Restaurant,Diner
+M6B,ON,"M6B, ON",43.709577,-79.4450726,Pub,Japanese Restaurant,Sushi Restaurant,Park,Zoo,Fair,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit
+M3C,ON,"M3C, ON",43.7258997,-79.34092299999999,Japanese Restaurant,Café,Beer Store,Restaurant,Coffee Shop,Gym,Asian Restaurant,Sporting Goods Shop,Caribbean Restaurant,Chinese Restaurant
+M4C,ON,"M4C, ON",43.6953439,-79.3183887,Cosmetics Shop,Spa,Curling Ice,Athletics & Sports,Beer Store,Pharmacy,Skating Rink,Park,Diner,Fair
+M6C,ON,"M6C, ON",43.6937813,-79.4281914,Hockey Arena,Tennis Court,Field,Trail,Fair,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+M9C,ON,"M9C, ON",43.6435152,-79.5772008,Cosmetics Shop,Beer Store,Liquor Store,Park,Coffee Shop,Pet Store,Café,Pizza Place,Farmers Market,Farm
+M1E,ON,"M1E, ON",43.7635726,-79.1887115,Mexican Restaurant,Rental Car Location,Bank,Moving Target,Intersection,Electronics Store,Medical Center,Breakfast Spot,Financial or Legal Service,Filipino Restaurant
+M4E,ON,"M4E, ON",43.6763574,-79.2930312,Pub,Health Food Store,Trail,Zoo,Fair,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit
+M5E,ON,"M5E, ON",43.6447708,-79.37330639999999,Coffee Shop,Cocktail Bar,Café,Cheese Shop,Restaurant,Seafood Restaurant,Bakery,Beer Bar,Beach,Japanese Restaurant
+M1G,ON,"M1G, ON",43.7709921,-79.2169174,Coffee Shop,Korean Restaurant,Indian Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+M4G,ON,"M4G, ON",43.7090604,-79.3634517,Sporting Goods Shop,Coffee Shop,Burger Joint,Bank,Furniture / Home Store,Pet Store,Liquor Store,Sandwich Place,Sushi Restaurant,Supermarket
+M5G,ON,"M5G, ON",43.6579524,-79.3873826,Coffee Shop,Italian Restaurant,Sandwich Place,Café,Salad Place,Bubble Tea Shop,Burger Joint,Thai Restaurant,Bar,Japanese Restaurant
+M1H,ON,"M1H, ON",43.773136,-79.23947609999999,Caribbean Restaurant,Fried Chicken Joint,Bank,Athletics & Sports,Gas Station,Bakery,Hakka Restaurant,Thai Restaurant,Fast Food Restaurant,Farmers Market
+M3H,ON,"M3H, ON",43.7543283,-79.4422593,Coffee Shop,Bank,Fried Chicken Joint,Gas Station,Restaurant,Supermarket,Shopping Mall,Sushi Restaurant,Diner,Ice Cream Shop
+M4H,ON,"M4H, ON",43.7053689,-79.3493719,Sandwich Place,Indian Restaurant,Pizza Place,Park,Burger Joint,Bus Line,Supermarket,Liquor Store,Bank,Gas Station
+M5H,ON,"M5H, ON",43.65057119999999,-79.3845675,Coffee Shop,Café,Restaurant,Deli / Bodega,Gym,Clothing Store,Thai Restaurant,Hotel,American Restaurant,Bookstore
+M6H,ON,"M6H, ON",43.6690051,-79.4422593,Pharmacy,Bakery,Portuguese Restaurant,Art Gallery,Middle Eastern Restaurant,Supermarket,Café,Music Venue,Bar,Bank
+M2J,ON,"M2J, ON",43.7785175,-79.3465557,Clothing Store,Coffee Shop,Fast Food Restaurant,Restaurant,Japanese Restaurant,Bakery,Bank,Shoe Store,Juice Bar,Bar
+M3J,ON,"M3J, ON",43.7679803,-79.4872619,Caribbean Restaurant,Coffee Shop,Miscellaneous Shop,Massage Studio,Falafel Restaurant,Bar,Metro Station,Dessert Shop,Field,Fabric Shop
+M5J,ON,"M5J, ON",43.6408157,-79.3817523,Coffee Shop,Aquarium,Café,Hotel,Restaurant,Scenic Lookout,Brewery,Italian Restaurant,Sporting Goods Shop,Fried Chicken Joint
+M6J,ON,"M6J, ON",43.6479267,-79.4197497,Bar,Asian Restaurant,Restaurant,Café,Men's Store,Vegetarian / Vegan Restaurant,Park,Juice Bar,New American Restaurant,Japanese Restaurant
+M1K,ON,"M1K, ON",51.253775,-85.323214,Pizza Place,Shoe Store,Zoo,Fair,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+M4K,ON,"M4K, ON",43.6795571,-79.352188,Greek Restaurant,Coffee Shop,Italian Restaurant,Ice Cream Shop,Furniture / Home Store,Restaurant,Brewery,Café,Spa,Caribbean Restaurant
+M5K,ON,"M5K, ON",43.6471768,-79.3815764,Coffee Shop,Café,Hotel,Restaurant,American Restaurant,Seafood Restaurant,Japanese Restaurant,Salad Place,Italian Restaurant,Sushi Restaurant
+M6K,ON,"M6K, ON",43.6368472,-79.4281914,Café,Breakfast Spot,Nightclub,Coffee Shop,Bakery,Grocery Store,Bar,Climbing Gym,Restaurant,Italian Restaurant
+M3L,ON,"M3L, ON",43.7390146,-79.5069436,Grocery Store,Hotel,Shopping Mall,Athletics & Sports,Liquor Store,Park,Bank,Discount Store,Zoo,Ethiopian Restaurant
+M6L,ON,"M6L, ON",43.7137562,-79.49007379999999,Bakery,Construction & Landscaping,Basketball Court,Park,Zoo,Farm,Event Space,Exhibit,Fabric Shop,Fair
+M9L,ON,"M9L, ON",43.7563033,-79.56596329999999,Gym,Pizza Place,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+M2M,ON,"M2M, ON",41.8478362,-88.01284129999999,Hotel,Greek Restaurant,Gym,Gym / Fitness Center,Zoo,Fabric Shop,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space
+M4M,ON,"M4M, ON",28.5099175,-81.3129414,Resort,Convenience Store,Hardware Store,American Restaurant,Coffee Shop,Gym,Zoo,Electronics Store,Ethiopian Restaurant,Event Space
+M6M,ON,"M6M, ON",43.6911158,-79.47601329999999,Restaurant,Sandwich Place,Discount Store,Coffee Shop,Zoo,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+M1N,ON,"M1N, ON",43.692657,-79.2648481,Café,General Entertainment,Skating Rink,College Stadium,Farm,Fair,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit
+M2N,ON,"M2N, ON",43.7701199,-79.40849279999999,Ramen Restaurant,Café,Sandwich Place,Coffee Shop,Pizza Place,Middle Eastern Restaurant,Shopping Mall,Lounge,Electronics Store,Steakhouse
+M3N,ON,"M3N, ON",43.7616313,-79.5209994,Grocery Store,Hotel,Shopping Mall,Athletics & Sports,Liquor Store,Park,Bank,Discount Store,Zoo,Ethiopian Restaurant
+M5N,ON,"M5N, ON",43.7116948,-79.4169356,Home Service,Garden,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Farm
+M6N,ON,"M6N, ON",43.6731853,-79.4872619,Convenience Store,Grocery Store,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+M9P,ON,"M9P, ON",43.696319,-79.5322424,Pizza Place,Coffee Shop,Intersection,Sandwich Place,Chinese Restaurant,Discount Store,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit
+M5R,ON,"M5R, ON",43.6727097,-79.4056784,Café,Sandwich Place,Coffee Shop,BBQ Joint,Pub,Pizza Place,Burger Joint,Flower Shop,Liquor Store,Cheese Shop
+M6R,ON,"M6R, ON",43.6489597,-79.45632499999999,Breakfast Spot,Gift Shop,Coffee Shop,Bookstore,Movie Theater,Bar,Eastern European Restaurant,Dog Run,Italian Restaurant,Restaurant
+M1S,ON,"M1S, ON",43.7942003,-79.2620294,Lounge,Latin American Restaurant,Breakfast Spot,Skating Rink,Zoo,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+M6S,ON,"M6S, ON",43.6515706,-79.4844499,Café,Coffee Shop,Sushi Restaurant,Pizza Place,Italian Restaurant,Pub,Grocery Store,Diner,Food,Sandwich Place
+M1T,ON,"M1T, ON",43.7816375,-79.3043021,Pizza Place,Bank,Chinese Restaurant,Italian Restaurant,Shopping Mall,Noodle House,Coffee Shop,Pharmacy,Gas Station,Convenience Store
+M5T,ON,"M5T, ON",43.6532057,-79.40004929999999,Café,Vietnamese Restaurant,Bakery,Coffee Shop,Mexican Restaurant,Gaming Cafe,Vegetarian / Vegan Restaurant,Bar,Dessert Shop,Breakfast Spot
+M5V,ON,"M5V, ON",43.6289467,-79.3944199,Airport Service,Airport Terminal,Plane,Sculpture Garden,Rental Car Location,Harbor / Marina,Boutique,Boat or Ferry,Airport Lounge,Airport Food Court
+M8V,ON,"M8V, ON",43.6056466,-79.5013207,Coffee Shop,Gym,Bakery,Café,Pizza Place,Mexican Restaurant,Fast Food Restaurant,Pharmacy,American Restaurant,Liquor Store
+M9V,ON,"M9V, ON",43.7394164,-79.58843689999999,Grocery Store,Sandwich Place,Fast Food Restaurant,Pizza Place,Beer Store,Pharmacy,Liquor Store,Fried Chicken Joint,Zoo,Fair
+M1W,ON,"M1W, ON",51.253775,-85.323214,Pizza Place,Shoe Store,Zoo,Fair,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+M5W,ON,"M5W, ON",43.6464352,-79.37484599999999,Coffee Shop,Café,Beer Bar,Seafood Restaurant,Restaurant,Italian Restaurant,Japanese Restaurant,Cocktail Bar,Breakfast Spot,Park
+M8W,ON,"M8W, ON",43.6024137,-79.5434841,Pizza Place,Pool,Sandwich Place,Coffee Shop,Pharmacy,Gym,Pub,Exhibit,Drugstore,Eastern European Restaurant
+M9W,ON,"M9W, ON",43.7067483,-79.59405439999999,Bar,Rental Car Location,Drugstore,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+M4X,ON,"M4X, ON",43.667967,-79.3676753,Coffee Shop,Restaurant,Park,Bakery,Pizza Place,Italian Restaurant,Pub,Chinese Restaurant,Café,Butcher
+M5X,ON,"M5X, ON",43.6484292,-79.3822802,Coffee Shop,Café,Gym,Japanese Restaurant,Hotel,Restaurant,Salad Place,Steakhouse,Deli / Bodega,Seafood Restaurant
+M4Y,ON,"M4Y, ON",43.6658599,-79.3831599,Coffee Shop,Sushi Restaurant,Japanese Restaurant,Gay Bar,Restaurant,Mediterranean Restaurant,Men's Store,Pub,Hotel,Yoga Studio
+M8Z,ON,"M8Z, ON",43.6288408,-79.5209994,Grocery Store,Burger Joint,Tanning Salon,Bakery,Kids Store,Supplement Shop,Discount Store,Gym,Sandwich Place,Convenience Store
+V1G,BC,"V1G, BC",55.7620971,-120.2426577,Coffee Shop,Gas Station,Pizza Place,Grocery Store,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V1J,BC,"V1J, BC",56.2537952,-120.8109907,Café,Music Venue,Zoo,Falafel Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Farm
+V1M,BC,"V1M, BC",49.1674587,-122.5956497,Spa,Zoo,Farm,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V1T,BC,"V1T, BC",50.2697891,-119.2681745,Coffee Shop,Convenience Store,Gas Station,Pizza Place,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit
+V1X,BC,"V1X, BC",49.9490746,-119.3510304,Golf Course,Falafel Restaurant,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Zoo
+V1Y,BC,"V1Y, BC",49.8856767,-119.4783845,Hotel,Breakfast Spot,American Restaurant,Coffee Shop,Asian Restaurant,Italian Restaurant,Grocery Store,Sandwich Place,Smoothie Shop,Fast Food Restaurant
+V2P,BC,"V2P, BC",49.1643526,-121.8827076,Home Service,Farm,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant,Farmers Market
+V2R,BC,"V2R, BC",49.0798077,-122.0109261,Massage Studio,Moving Target,Zoo,Farm,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V2V,BC,"V2V, BC",48.4210806,-123.3714053,Hotel,Restaurant,Seafood Restaurant,Coffee Shop,American Restaurant,Ice Cream Shop,Breakfast Spot,Japanese Restaurant,Boat or Ferry,Park
+V2Y,BC,"V2Y, BC",49.1336018,-122.6311737,Farm,Playground,Zoo,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V3C,BC,"V3C, BC",49.2520792,-122.7750168,Record Shop,Dance Studio,Zoo,Farm,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V3E,BC,"V3E, BC",49.4156891,-122.7783417,Other Great Outdoors,Falafel Restaurant,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Zoo
+V3H,BC,"V3H, BC",49.3099472,-122.8604805,Beach,Farmers Market,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant,Farm,Zoo
+V3J,BC,"V3J, BC",49.2581338,-122.8627441,Other Great Outdoors,Falafel Restaurant,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Zoo
+V3K,BC,"V3K, BC",49.2376216,-122.855921,Sushi Restaurant,Bowling Alley,Greek Restaurant,Sandwich Place,Tea Room,Movie Theater,Lounge,Discount Store,Dim Sum Restaurant,Coffee Shop
+V3L,BC,"V3L, BC",49.2209898,-122.8990775,Sports Club,Bar,Gourmet Shop,Park,Fair,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V3M,BC,"V3M, BC",49.1909751,-122.939678,Kids Store,Gym,Women's Store,Shoe Store,Comfort Food Restaurant,Park,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space
+V3P,BC,"V3P, BC",49.2492574,-122.858581,Café,Korean Restaurant,Vietnamese Restaurant,Fast Food Restaurant,Pool Hall,Fish & Chips Shop,Japanese Restaurant,Bakery,Bank,Flower Shop
+V3R,BC,"V3R, BC",49.1975969,-122.8037089,Scenic Lookout,Vietnamese Restaurant,Fabric Shop,Gym / Fitness Center,Fair,Drugstore,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space
+V3X,BC,"V3X, BC",49.1092289,-122.8676666,ATM,Farm,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant,Farmers Market
+V3Z,BC,"V3Z, BC",49.04839279999999,-122.6931908,Coffee Shop,Fast Food Restaurant,Sandwich Place,Café,Financial or Legal Service,Filipino Restaurant,Field,Fish & Chips Shop,Farmers Market,Farm
+V4B,BC,"V4B, BC",49.0253085,-122.802962,Japanese Restaurant,Café,Food & Drink Shop,Other Great Outdoors,Coffee Shop,Restaurant,Fast Food Restaurant,Breakfast Spot,Bistro,Steakhouse
+V4C,BC,"V4C, BC",49.1536517,-122.9057948,Coffee Shop,Fish & Chips Shop,Art Gallery,Skating Rink,Falafel Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V4H,BC,"V4H, BC",53.7266683,-127.6476205,Café,Korean Restaurant,Vietnamese Restaurant,Fast Food Restaurant,Pool Hall,Fish & Chips Shop,Japanese Restaurant,Bakery,Bank,Flower Shop
+V4J,BC,"V4J, BC",53.7266683,-127.6476205,Café,Korean Restaurant,Vietnamese Restaurant,Fast Food Restaurant,Pool Hall,Fish & Chips Shop,Japanese Restaurant,Bakery,Bank,Flower Shop
+V4K,BC,"V4K, BC",49.0898468,-123.0515798,Coffee Shop,Construction & Landscaping,Athletics & Sports,Bus Stop,Soccer Field,Park,Falafel Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+V4M,BC,"V4M, BC",49.0167541,-123.0851298,Athletics & Sports,Gym / Fitness Center,Zoo,Drugstore,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V4N,BC,"V4N, BC",49.1638107,-122.7497805,Art Gallery,Zoo,Drugstore,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V4W,BC,"V4W, BC",49.0622896,-122.4995766,Drive-in Theater,Coffee Shop,Bank,Sandwich Place,Pizza Place,Liquor Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V5B,BC,"V5B, BC",49.2675789,-122.9751096,Diner,Asian Restaurant,Chinese Restaurant,Vietnamese Restaurant,Sushi Restaurant,Park,Farm,Ethiopian Restaurant,Event Space,Exhibit
+V5C,BC,"V5C, BC",49.2790413,-123.0101935,Café,Vietnamese Restaurant,Pizza Place,Bank,Thai Restaurant,French Restaurant,Coffee Shop,Grocery Store,Sushi Restaurant,Japanese Restaurant
+V5H,BC,"V5H, BC",49.2300456,-122.9859058,Pharmacy,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Farm
+V5J,BC,"V5J, BC",49.20503739999999,-122.9930913,Garden Center,Golf Course,Farmers Market,Zoo,Fair,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V5K,BC,"V5K, BC",49.2833669,-123.040943,Theme Park Ride / Attraction,Park,Event Space,Theme Park,Coffee Shop,Racetrack,Gas Station,Bakery,Sandwich Place,Theater
+V5L,BC,"V5L, BC",49.2805586,-123.067339,Coffee Shop,Brewery,Asian Restaurant,Liquor Store,Café,Chinese Restaurant,Bakery,Theater,Thai Restaurant,Middle Eastern Restaurant
+V5M,BC,"V5M, BC",49.2574664,-123.0419607,Coffee Shop,Paper / Office Supplies Store,Arts & Crafts Store,Bus Stop,Grocery Store,Pet Store,Chinese Restaurant,Sandwich Place,Hardware Store,Convenience Store
+V5N,BC,"V5N, BC",49.2577885,-123.0674464,Chinese Restaurant,Sushi Restaurant,Park,Sandwich Place,Bakery,Coffee Shop,Diner,Farmers Market,Bookstore,Skating Rink
+V5P,BC,"V5P, BC",49.2225183,-123.0711236,Pizza Place,Noodle House,Gas Station,Middle Eastern Restaurant,Convenience Store,Pharmacy,Pet Store,Motorcycle Shop,Park,Bus Stop
+V5R,BC,"V5R, BC",49.2378333,-123.0411864,Chocolate Shop,Asian Restaurant,Ice Cream Shop,Indian Restaurant,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit
+V5S,BC,"V5S, BC",49.217344,-123.0342713,Recreation Center,Video Store,Bakery,Sandwich Place,Chinese Restaurant,Shopping Mall,Grocery Store,Deli / Bodega,Bank,Pharmacy
+V5T,BC,"V5T, BC",49.2612326,-123.0920434,Sushi Restaurant,Vietnamese Restaurant,Ethiopian Restaurant,Bakery,Arts & Crafts Store,French Restaurant,Caribbean Restaurant,Music Venue,Japanese Restaurant,Bar
+V5V,BC,"V5V, BC",49.2487161,-123.0956099,Coffee Shop,Café,Restaurant,Pub,Thai Restaurant,Japanese Restaurant,Sushi Restaurant,Vegetarian / Vegan Restaurant,Chinese Restaurant,Arts & Crafts Store
+V5W,BC,"V5W, BC",49.2322148,-123.0939185,Chinese Restaurant,Diner,Park,Sandwich Place,Bus Stop,Thrift / Vintage Store,Asian Restaurant,Fried Chicken Joint,Coffee Shop,Tea Room
+V5X,BC,"V5X, BC",49.2157186,-123.0922283,Indian Restaurant,Park,Motel,Zoo,Farm,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V5Y,BC,"V5Y, BC",49.2457415,-123.109243,Skating Rink,Farmers Market,Gym Pool,Athletics & Sports,Baseball Stadium,Park,Gym,Seafood Restaurant,Falafel Restaurant,Fair
+V5Z,BC,"V5Z, BC",49.2474582,-123.1215412,Coffee Shop,Park,Malay Restaurant,Gym,Light Rail Station,Café,Juice Bar,Cafeteria,Sushi Restaurant,Bus Stop
+V6A,BC,"V6A, BC",49.2777428,-123.0937343,Café,Sandwich Place,Coffee Shop,Asian Restaurant,Noodle House,Pizza Place,Bar,Restaurant,Dive Bar,Clothing Store
+V6B,BC,"V6B, BC",49.2807513,-123.1152712,Coffee Shop,Hotel,Restaurant,Burger Joint,Bar,Concert Hall,Vietnamese Restaurant,Sandwich Place,Vegetarian / Vegan Restaurant,Seafood Restaurant
+V6C,BC,"V6C, BC",49.287228,-123.1150281,Coffee Shop,Hotel,Boat or Ferry,Restaurant,Hotel Bar,Café,Food Truck,Airport Terminal,Bar,Plaza
+V6E,BC,"V6E, BC",49.2844627,-123.1302129,Japanese Restaurant,Bakery,Restaurant,Dessert Shop,Thai Restaurant,Ramen Restaurant,Sushi Restaurant,Coffee Shop,Greek Restaurant,Bubble Tea Shop
+V6H,BC,"V6H, BC",49.255432,-123.1320634,Breakfast Spot,Bakery,Japanese Restaurant,Historic Site,Café,Pizza Place,Physical Therapist,Pet Store,Dessert Shop,Bus Stop
+V6J,BC,"V6J, BC",49.2493221,-123.1465861,Coffee Shop,Event Space,Zoo,Electronics Store,Ethiopian Restaurant,Exhibit,Fabric Shop,Fair,Falafel Restaurant,Farm
+V6K,BC,"V6K, BC",49.26526390000001,-123.1676483,Coffee Shop,Café,Spa,Vegetarian / Vegan Restaurant,Italian Restaurant,Bookstore,Thai Restaurant,Tea Room,Liquor Store,Burger Joint
+V6L,BC,"V6L, BC",49.2487594,-123.1659272,Caribbean Restaurant,Italian Restaurant,Bakery,Moving Target,Financial or Legal Service,Filipino Restaurant,Field,Fast Food Restaurant,Farmers Market,Farm
+V6M,BC,"V6M, BC",49.2336779,-123.1510225,Chinese Restaurant,Tea Room,Coffee Shop,Sandwich Place,Bakery,Noodle House,Liquor Store,Thai Restaurant,Dessert Shop,Japanese Restaurant
+V6N,BC,"V6N, BC",49.232547,-123.1896913,Grocery Store,Gym / Fitness Center,Coffee Shop,Liquor Store,Golf Course,Japanese Restaurant,Bus Stop,Electronics Store,Ethiopian Restaurant,Event Space
+V6P,BC,"V6P, BC",49.2131996,-123.1440497,Chinese Restaurant,Bubble Tea Shop,Sushi Restaurant,Massage Studio,Coffee Shop,Sandwich Place,Bar,Bank,Thai Restaurant,Gas Station
+V6R,BC,"V6R, BC",49.2655497,-123.1931537,Vegetarian / Vegan Restaurant,Japanese Restaurant,Gym / Fitness Center,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V6T,BC,"V6T, BC",49.2643993,-123.2318586,American Restaurant,Golf Course,Golf Driving Range,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V6V,BC,"V6V, BC",49.1807017,-123.0511357,Electronics Store,Juice Bar,Zoo,Drugstore,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V6X,BC,"V6X, BC",49.1768001,-123.1160714,Fast Food Restaurant,Vietnamese Restaurant,Coffee Shop,Shopping Plaza,Portuguese Restaurant,Taiwanese Restaurant,Burger Joint,Asian Restaurant,Furniture / Home Store,Grocery Store
+V6Y,BC,"V6Y, BC",49.1571976,-123.1152602,Shopping Mall,Japanese Restaurant,Zoo,Drugstore,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V6Z,BC,"V6Z, BC",49.2725714,-123.1207968,Café,Park,Boat or Ferry,Italian Restaurant,Cosmetics Shop,Seafood Restaurant,Yoga Studio,Sushi Restaurant,Mediterranean Restaurant,Harbor / Marina
+V7A,BC,"V7A, BC",49.1313577,-123.1162229,Farm,Fast Food Restaurant,Farmers Market,Flower Shop,Pool Hall,Fish & Chips Shop,Financial or Legal Service,Filipino Restaurant,Field,Fish Market
+V7B,BC,"V7B, BC",49.1995642,-123.1862331,Coffee Shop,Sandwich Place,Café,Fish & Chips Shop,Fair,Electronics Store,Fish Market,Ethiopian Restaurant,Event Space,Exhibit
+V7E,BC,"V7E, BC",49.1381985,-123.1652919,Scenic Lookout,Playground,Zoo,Fair,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V7G,BC,"V7G, BC",49.327058,-122.9579713,Gluten-free Restaurant,Café,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Farm
+V7L,BC,"V7L, BC",49.31813589999999,-123.0565973,Paper / Office Supplies Store,Martial Arts Dojo,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V7N,BC,"V7N, BC",49.33952439999999,-123.0696987,Coffee Shop,Park,Bar,Sandwich Place,Donut Shop,Convenience Store,Filipino Restaurant,Financial or Legal Service,Electronics Store,Fish & Chips Shop
+V7P,BC,"V7P, BC",49.32589,-123.1120264,Sushi Restaurant,Burger Joint,Coffee Shop,Fish & Chips Shop,Diner,Bank,Asian Restaurant,Japanese Restaurant,Toy / Game Store,Greek Restaurant
+V7T,BC,"V7T, BC",49.33018320000001,-123.1428353,Coffee Shop,Shopping Mall,Grocery Store,Clothing Store,Bank,Cosmetics Shop,Café,Fast Food Restaurant,Pharmacy,Burger Joint
+V7V,BC,"V7V, BC",49.3433004,-123.1903776,Gas Station,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Farm
+V7W,BC,"V7W, BC",49.3637828,-123.2679395,French Restaurant,Zoo,Farm,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V7X,BC,"V7X, BC",49.2859151,-123.1202012,Hotel,Dessert Shop,Coffee Shop,Food Truck,Seafood Restaurant,Sandwich Place,Clothing Store,Café,Italian Restaurant,Cosmetics Shop
+V7Y,BC,"V7Y, BC",49.2826578,-123.118728,Hotel,Food Truck,Seafood Restaurant,Coffee Shop,Sandwich Place,Steakhouse,Concert Hall,Restaurant,Plaza,Donut Shop
+V7Z,BC,"V7Z, BC",49.1313577,-123.1162229,Café,Korean Restaurant,Vietnamese Restaurant,Fast Food Restaurant,Pool Hall,Fish & Chips Shop,Japanese Restaurant,Bakery,Bank,Flower Shop
+V8B,BC,"V8B, BC",49.7159284,-123.1424504,Hotel,American Restaurant,Farmers Market,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant,Farm
+V8E,BC,"V8E, BC",53.7266683,-127.6476205,Café,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Farm
+V8H,BC,"V8H, BC",53.7266683,-127.6476205,Café,Korean Restaurant,Vietnamese Restaurant,Fast Food Restaurant,Pool Hall,Fish & Chips Shop,Japanese Restaurant,Bakery,Bank,Flower Shop
+V8J,BC,"V8J, BC",54.3136441,-130.3191086,Fish Market,Convenience Store,Hotel Bar,Supermarket,Hardware Store,Coffee Shop,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space
+V8M,BC,"V8M, BC",48.5860381,-123.4206664,Electronics Store,Bridal Shop,Grocery Store,Park,Falafel Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V8N,BC,"V8N, BC",48.4767571,-123.3251287,Athletics & Sports,Baseball Field,Skate Park,Zoo,Electronics Store,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V8R,BC,"V8R, BC",48.4372496,-123.3172537,Bakery,Baseball Field,Grocery Store,Gym,Zoo,Fair,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V8S,BC,"V8S, BC",48.41958899999999,-123.3284138,Café,Playground,Bus Stop,Park,Fair,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V8T,BC,"V8T, BC",48.4399898,-123.3603921,Coffee Shop,Liquor Store,Café,Pizza Place,Sporting Goods Shop,Smoke Shop,Taco Place,Bar,Sandwich Place,Restaurant
+V8V,BC,"V8V, BC",48.4153294,-123.3671972,Coffee Shop,Zoo,Breakfast Spot,Yoga Studio,Hotel,Museum,Pub,Movie Theater,Liquor Store,Diner
+V8W,BC,"V8W, BC",48.4261169,-123.3642211,Coffee Shop,Breakfast Spot,Bakery,Sushi Restaurant,Restaurant,Vegetarian / Vegan Restaurant,Tapas Restaurant,Italian Restaurant,Pizza Place,Japanese Restaurant
+V9B,BC,"V9B, BC",48.4690605,-123.5029896,Zoo,Wine Shop,Lake,Theme Park,Fish & Chips Shop,Financial or Legal Service,Filipino Restaurant,Field,Fast Food Restaurant,Farmers Market
+V9E,BC,"V9E, BC",48.527525,-123.4618853,Lake,Zoo,Farm,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V9R,BC,"V9R, BC",49.165722,-124.0001699,Lake,Construction & Landscaping,Tennis Court,Campground,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop
+V9V,BC,"V9V, BC",49.2378912,-124.0323544,Home Service,Recreation Center,Farm,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair,Falafel Restaurant
+V9W,BC,"V9W, BC",50.0146606,-125.2608554,Tour Provider,Furniture / Home Store,Zoo,Falafel Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
+V9Y,BC,"V9Y, BC",49.2854825,-124.8657264,Campground,River,Drugstore,Eastern European Restaurant,Electronics Store,Ethiopian Restaurant,Event Space,Exhibit,Fabric Shop,Fair
